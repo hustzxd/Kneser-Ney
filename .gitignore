@@ -98,4 +98,8 @@ ENV/
 /site
 
 # mypy
-.mypy_cache/
+i.mypy_cache/
+
+# add by zhaoxiandong
+/LM_data
+*.arpa
